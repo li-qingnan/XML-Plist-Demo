@@ -17,6 +17,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    /* 这是一个 XML解析 -> 再写成需要格式XML -> 在转换成plist 的Demo */
+    
     return YES;
 }
 
